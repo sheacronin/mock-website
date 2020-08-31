@@ -1,2 +1,2 @@
 # sheacronin.github.io
-This is a test website created for a class.
+This is a mock website created in December 2019 for a Web Design course.
